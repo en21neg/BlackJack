@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Carta
+comment1.params=num
+comment1.target=Carta(int)
+comment1.text=\r\n\ Generatore\ della\ carta\:\r\n\ \r\n\ inserito\ un\ numero\ intero\ tra\ 0\ e\ 51,\ genera\ una\ carta\ nel\ seguente\ modo\:\ n\ \u00C3\u00A8\r\n\ il\ numero\ identificatore\ num\ \u00C3\u00A8\ il\ numero\ della\ carta\ (ci\u00C3\u00B2\ che\ c'\u00C3\u00A8\ scritto)\r\n\ value\ \u00C3\u00A8\ il\ valore\ della\ carta\ nel\ gioco\ seme\ \u00C3\u00A8\ il\ seme\ della\ carta\ (0\ \=\ picche,\ \r\n\ 1\ \=\ cuori,\ 2\ \=\ fiori,\ 3\ \=\ quadri)\r\n\ \r\n
+comment2.params=
+comment2.target=Carta()
+comment3.params=
+comment3.target=int\ getN()
+comment3.text=\r\n\ @return\ the\ n\r\n
+comment4.params=
+comment4.target=byte\ getSeme()
+comment4.text=\r\n\ @return\ the\ seme\r\n
+comment5.params=
+comment5.target=int\ getNumero()
+comment5.text=\r\n\ @return\ the\ numero\r\n
+comment6.params=
+comment6.target=int\ getValue()
+comment6.text=\r\n\ @return\ the\ value\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Metodo\ toString\ per\ l'oggetto\ carta\r\n
+numComments=8

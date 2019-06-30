@@ -1,0 +1,36 @@
+#BlueJ class context
+comment0.target=Mazzo
+comment1.params=
+comment1.target=Mazzo()
+comment10.params=c
+comment10.target=void\ countR7(Carta)
+comment10.text=\r\n\ Metodo\ di\ progressione\ del\ conteggio\ delle\ carte\ secondo\ il\ metodo\ Red\ -\ 7\r\n\ \r\n\ @param\ c\ Carta\ da\ valutare\r\n
+comment11.params=c
+comment11.target=void\ countZen(Carta)
+comment11.text=\r\n\ Metodo\ di\ progressione\ del\ conteggio\ delle\ carte\ secondo\ il\ metodo\ Zen\r\n\ \r\n\ @param\ c\ Carta\ da\ valutare\r\n
+comment12.params=i
+comment12.target=int\ getConteggio(byte)
+comment12.text=\r\n\ Metodo\ per\ restituire\ il\ conteggio\ del\ mazzo.\r\n\ Se\ in\ input\ riceve\ 1\ 2\ 3\ 4\ restituisce\ il\ conteggio\ corrispondente,\ zero\r\n\ altrimenti.\r\n\ 1\ \=\ Hi-Lo,\ 2\ \=\ Omega\ 2,\ 3\ \=\ Red-7,\ 4\ \=\ Zen\r\n\ \r\n\ @param\ i\ tipologia\ di\ conteggio\ utilizzata\r\n\ @return\ conteggio\ corrispondente\r\n
+comment2.params=n
+comment2.target=Mazzo(int)
+comment3.params=
+comment3.target=void\ mix()
+comment4.params=
+comment4.target=Carta\ getCard()
+comment4.text=\r\n\ Questo\ metodo\ corrisponde\ all'estrazione\ di\ una\ carta\ dal\ mazzo\ del\ banco\r\n\ \r\n\ @return\ the\ card[i]\r\n
+comment5.params=
+comment5.target=int\ getNcarte()
+comment5.text=\r\n\ @return\ the\ ncarte\r\n
+comment6.params=
+comment6.target=int\ getNumero()
+comment6.text=\r\n\ @return\ the\ numero\ (numero\ di\ mazzi)\r\n
+comment7.params=
+comment7.target=int\ getPointer()
+comment7.text=\r\n\ \r\n\ @return\ pointer\r\n
+comment8.params=c
+comment8.target=void\ countHL(Carta)
+comment8.text=\r\n\ Metodo\ di\ progressione\ del\ conteggio\ delle\ carte\ secondo\ il\ metodo\ Hi-Lo\r\n\ \r\n\ @param\ c\ Carta\ da\ valutare\r\n
+comment9.params=c
+comment9.target=void\ countO2(Carta)
+comment9.text=\r\n\ Metodo\ di\ progressione\ del\ conteggio\ delle\ carte\ secondo\ il\ metodo\ Omega\ 2\r\n\ \r\n\ @param\ c\ Carta\ da\ valutare\r\n
+numComments=13

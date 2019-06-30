@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Banco
+comment1.params=s
+comment1.target=Banco(Carta)
+comment1.text=\r\n\ Costruttore\ per\ l'oggetto\ banco,\ a\ cui\ viene\ assegnata\ la\ carta\ s\ iniziale\r\n\ \r\n\ @param\ s\ \:\ carta\ iniziale\r\n
+comment2.params=s
+comment2.target=void\ addCard(Carta)
+comment2.text=\r\n\ Metodo\ per\ l'aggiunta\ di\ una\ carta\ al\ banco\r\n\ \r\n\ @param\ s\ \:\ carta\ da\ aggiungere\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ Metodo\ get\ per\ il\ valore\ del\ banco\r\n\ \r\n\ @return\ the\ value\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Metodo\ toString\ per\ l'oggetto\ banco\r\n
+comment5.params=
+comment5.target=boolean\ isOver()
+comment5.text=\r\n\ Metodo\ di\ valutazione\ se\ il\ banco\ ha\ sballato\ o\ meno\r\n\ \r\n\ true\ \=\ sballato,\ false\ \=\ in\ gioco\r\n\ \r\n\ @return\ over\ \r\n
+numComments=6
